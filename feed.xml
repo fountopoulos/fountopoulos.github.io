@@ -6,13 +6,13 @@
     <atom:link href="http://fountopoulos.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>Web feed for the George Fountopoulos Blog</description>
     <language>en-gb</language>
-    <pubDate>Wed, 12 Sep 2018 21:55:28 +0100</pubDate>
-    <lastBuildDate>Wed, 12 Sep 2018 21:55:28 +0100</lastBuildDate>
+    <pubDate>Thu, 27 Sep 2018 19:40:36 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Sep 2018 19:40:36 +0100</lastBuildDate>
 
     <item>
       <title>Rendering engine missing</title>
       <link>http://fountopoulos.github.io/blog/2013/second-post.html</link>
-      <pubDate>Wed, 12 Sep 2018 21:55:27 +0100</pubDate>
+      <pubDate>Thu, 27 Sep 2018 19:40:35 +0100</pubDate>
       <guid isPermaLink="false">blog/2013/second-post.html</guid>
       <description>The markup engine [org.jbake.parser.MarkdownEngine] for [/home/aaaa/b-proper/fountopoulos-github-io-src/active/fountopoulos-github-io-src/src/main/jbake/content/blog/2013/second-post.md] couldn&amp;#39;t be loaded</description>	  
     </item><item>
